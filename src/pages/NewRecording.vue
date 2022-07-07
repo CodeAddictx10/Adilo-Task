@@ -1,10 +1,10 @@
 <template>
     <div class="bg-[#EAFAFF]">
         <section class="2xl:container h-screen pt-14">
-            <div class="mx-auto w-7/12">
+            <div class="mx-auto w-7/12 mb-2">
                 <span class="block font-light"
                     ><i
-                        class="fa-solid fa-record-vinyl text-red-600 pr-2"
+                        class="fa-solid fa-record-vinyl text-red-600 pr-2 text-xs"
                         :class="chuck.length > 0 ? 'animate-ping' : ''"
                     ></i
                     >Live Preview</span
