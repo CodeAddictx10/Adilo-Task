@@ -95,7 +95,7 @@ const recordedVidoes = reactive([
             "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
         noOfViews: 500,
         size: "30MB",
-        lastModeified: "2022-05-30",
+        lastModeified: "3 month ago",
     },
     {
         thumbnail: "https://picsum.photos/100/50",
@@ -105,7 +105,7 @@ const recordedVidoes = reactive([
             "There are many variations of passages of Lorem Ipsum available",
         noOfViews: 1000,
         size: "15MB",
-        lastModeified: "2022-06-01",
+        lastModeified: "A month ago",
     },
     {
         thumbnail: "https://picsum.photos/100/50",
@@ -115,7 +115,7 @@ const recordedVidoes = reactive([
             "Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words ",
         noOfViews: 100,
         size: "100MB",
-        lastModeified: "2022-05-28",
+        lastModeified: "2 month ago",
     },
     {
         thumbnail: "https://picsum.photos/100/50",
@@ -125,7 +125,7 @@ const recordedVidoes = reactive([
             "here are many variations of passages of Lorem Ipsum available, but the majority have suffered",
         noOfViews: 500,
         size: "30MB",
-        lastModeified: "2022-05-27",
+        lastModeified: "A month ago",
     },
 
     {
@@ -136,7 +136,7 @@ const recordedVidoes = reactive([
             " Lorem Ipsum is not simply random text. It has roots in a piece of classical",
         noOfViews: 450,
         size: "20MB",
-        lastModeified: "2022-05-31",
+        lastModeified: "3 month ago",
     },
 ]);
 const isOpen = ref<boolean>(false);
