@@ -20,10 +20,9 @@
                 </div>
                 <div class="flex justify-center">
                     <button
-                        class="rounded-full bg-primary text-white disabled:bg-primary/100 border-slate-300 border px-16 py-3 text-xs space-x-2 font-thin"
+                        class="rounded-full bg-primary text-white border-slate-300 border px-16 py-3 text-xs space-x-2 font-thin"
                         @click="startRecord"
                         v-if="!recordingInProgress"
-                        :disabled="videoIsRecording"
                     >
                         <!-- ref="pause" -->
                         Start Recording
