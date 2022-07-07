@@ -1,6 +1,6 @@
 <template>
     <div class="bg-[#EAFAFF]">
-        <section class="2xl:container h-screen pt-14">
+        <section class="2xl:container h-max py-14">
             <div class="mx-auto w-7/12 mb-2">
                 <span class="block font-light"
                     ><i
